@@ -3,7 +3,7 @@
 # AmnesiaUserScript - Create an amnesia user with ramdisk-home
 # Author: Michael Janssen <m.janssen@lyrah.net>
 # License: GPLv3
-# Version: 1.1
+VERSION="1.1-1"
 
 # configuration
 # name of the amnesia user
